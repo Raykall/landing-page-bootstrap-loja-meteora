@@ -18,8 +18,7 @@
  <img src="https://i.imgur.com/nWukyiw.png"  alt="Imagem Ilustratiuva do Projeto Landing-Page Loja Meteora com BoootStrap"/>
 
 
-## Learn More
+## Saber Mais
 
-Você pode aprender mais na [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+Você pode aprender mais sobre o bootStrap na [Site bootStrap](https://getbootstrap.com/docs/5.3/getting-started/introduction/).
 
-Para aprender o React, verifique a [React documentation](https://reactjs.org/).
