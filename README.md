@@ -20,5 +20,5 @@
 
 ## Saber Mais
 
-Você pode aprender mais sobre o bootStrap na [Site bootStrap](https://getbootstrap.com/docs/5.3/getting-started/introduction/).
+Você pode aprender mais sobre o bootStrap na [Site do boostrap](https://getbootstrap.com/docs/5.3/getting-started/introduction/).
 
